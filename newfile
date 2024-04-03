@@ -1,0 +1,6 @@
+#include <stdio.h>
+struct process {
+    int id; 
+    int burst_time; 
+};
+
